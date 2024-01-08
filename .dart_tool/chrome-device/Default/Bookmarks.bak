@@ -1,0 +1,53 @@
+{
+   "checksum": "fa4fd3c5e985e24a6697aca42d94f8d6",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13345641247087274",
+            "date_last_used": "0",
+            "guid": "5f4aa880-fc40-4a19-ba1d-f79cdd624048",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "620-P11.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/Lenovo/Desktop/Materi%20Kuliah/Semester%205/E-BUSINESS/620-P11.pdf"
+         } ],
+         "date_added": "13348858009755940",
+         "date_last_used": "0",
+         "date_modified": "13345641247087274",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13348858009755945",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13348858009755947",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCGygNtWMAQAAKg4QABgAIAAoBjAAOABAABIAIAEqGHpCdDNMS2pKZEo0QktudFk1K3YvZlE9PaAGDBKnAQgHEqIBChx2RnZZdW5ETDZKVkd4eEVwSXpicmRaajh4Rmc9EiQ1ZjRhYTg4MC1mYzQwLTRhMTktYmExZC1mNzljZGQ2MjQwNDgYACAAKAAwtqn5q8ExOIer+avBMUCHq/mrwTFKHE5IMVEwT1piMzZvUHJLSlZRT0xNWlZMUktVWT1aHiIceVV2cWN4TXRqSUNIK0FoZm1aZ3NkR3ZrSVl3PWV3cGyjEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDdiNmNhOTUwLThkMjktNTFhYi1iMDI3LTJhNzVmMzQ2NGRiMRgAIAAoADDakYKC0TA4/ZOCgtEwQP2TgoLRMEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMDJlNDk1YmYtNmVmOC01ODRhLWI0ZDEtNGEyMWE2MTViNzM3GAAgACgAMNyRgoLRMDiclIKC0TBAnJSCgtEwShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRiMzViOGFhOS1mYzE1LTVkMmEtYjU1Ny01NDEyOTMxMWQyNjcYACAAKAAw4ZGCgtEwOKmVgoLRMECplYKC0TBKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
