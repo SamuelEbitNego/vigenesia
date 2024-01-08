@@ -1,4 +1,6 @@
 # vigenesia
+Adalah salah satu tugas di Universitas Bina Sarana Informatika, dengan ini kami membuat tugas project pada matakuliah tersebut di Semester 5.
+Tugas project ini dikerjakan dengan kelompok atau rekan-rekan yang sudah dipilih. Aplikasi vigenesia dibuat menggunakan flutter, codeigniter, & ngrok.
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
